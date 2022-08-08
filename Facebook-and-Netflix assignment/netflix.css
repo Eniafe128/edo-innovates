@@ -5,7 +5,7 @@
 }
 
 .father1 {
-  background-image: url(image/netflix2.jpg);
+  background-image: url(image/netflix.jpg);
   background-repeat: none;
   background-size: cover;
   position: relative;
@@ -76,14 +76,14 @@ img {
 .p1 {
   color: white;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: x-large;
+  font-size: 150%;
   margin: 1rem 10rem;
 }
 
 .p2 {
   color: white;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: large;
+  font-size: 115%;
   margin-left: 2rem;
 }
 
@@ -303,3 +303,29 @@ img {
   padding-left: 2rem;
   margin-top: 10px;
 }
+footer {
+  padding: 2rem 22rem 1rem 13rem;
+  border-top: 7px solid #64646477;
+  background-color: #000;
+}
+.qtn {
+  font-size: 17px;
+  margin: 14px 14px 25px 14px;
+  display: block;
+  color: #737373;
+}
+.block-a {
+  margin: 14px;
+  display: block;
+  font-size: 13px;
+  color: #737373;
+}
+.qtn:hover,
+.block-a:hover {
+  text-decoration: underline;
+}
+
+/* media query */
+@media screen and(max-width:786px){
+  
+  }

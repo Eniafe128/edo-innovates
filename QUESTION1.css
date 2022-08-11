@@ -1,0 +1,59 @@
+.container {
+  text-align: center;
+  margin: 5rem 2rem;
+  padding: 0 3rem;
+}
+
+.img {
+  width: 5.5rem;
+}
+span {
+  color: grey;
+  opacity: 0.8;
+}
+h1 {
+  font-weight: 900;
+  font-size: 300%;
+}
+.sub {
+  margin-top: 0.9rem;
+}
+ {
+}
+.form-control {
+  margin-top: 2rem;
+  width: 36rem;
+  height: 3.5rem;
+}
+
+.form-control,
+.btn {
+  border-radius: 6rem;
+}
+.btn {
+  height: 3.5rem;
+  width: 12rem;
+  margin-top: 2rem;
+  margin-right: 5rem;
+}
+.img2 {
+  width: 68%;
+  height: 30%;
+  margin-top: 4rem;
+}
+.row2 {
+  margin-bottom: 2.5rem;
+}
+.fa {
+  color: steelblue;
+}
+.container2 {
+  text-align: center;
+}
+.copy {
+  font-size: small;
+  margin-bottom: 1rem;
+}
+.challenge {
+  font-size: small;
+}

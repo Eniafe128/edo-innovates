@@ -1,0 +1,102 @@
+body {
+  background-color: #f8f9fa;
+  z-index: 1;
+  position: relative;
+}
+.navbar {
+  height: 6rem;
+  width: rem;
+}
+
+.text {
+  padding: 8rem 0;
+  color: black;
+}
+.text1 {
+  font-size: large;
+  font-weight: 900;
+}
+
+.text2 {
+  font-size: 3.5rem;
+  font-weight: bolder;
+}
+.text3 {
+  font-size: large;
+}
+.d-grid {
+  margin-top: 3.5rem;
+  width: 10rem;
+  height: 3rem;
+  color: black;
+}
+.icon {
+  margin-right: 6rem;
+}
+.bi-facebook {
+  margin-right: 3rem;
+}
+.bi-twitter {
+  margin-right: 3rem;
+}
+.nav-tabs {
+  margin-left: 9rem;
+}
+.nav-link {
+  text-decoration: none;
+  color: rgb(90, 88, 88);
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+.rounded {
+  width: 25rem;
+  height: 25rem;
+
+  margin-top: 10rem;
+  margin-left: 2rem;
+}
+.we-do {
+  background-color: white;
+  margin-top: 4rem;
+  opacity: 1;
+  z-index: 10;
+  text-align: left;
+  width: 35rem;
+  height: 35rem;
+  border-radius: 1rem;
+}
+
+.t {
+  color: gray;
+  margin-top: 4rem;
+  font-size: large;
+  font-weight: 500;
+  margin-left: 5rem;
+}
+.t1 {
+  color: black;
+  margin-top: 0.5rem;
+  font-size: 3rem;
+  font-weight: 800;
+  margin-left: 5rem;
+}
+.t2 {
+  color: rgb(119, 117, 117);
+  margin-top: 0.5rem;
+  font-size: large;
+  font-weight: 500;
+  margin-left: 5rem;
+}
+.list {
+  margin-top: 1rem;
+  margin-left: 5rem;
+}
+.list-item {
+  font-weight: 600;
+  margin-top: 0.5rem;
+  font-size: large;
+}
+.btn{
+  margin-left: 5rem;
+  width: 12rem;
+}

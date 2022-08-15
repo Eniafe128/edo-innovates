@@ -1,0 +1,196 @@
+nav {
+  background-color: #54ccdf;
+}
+.nexus {
+  margin-bottom: 1rem;
+}
+.nav-link {
+  font-weight: 600;
+  color: white;
+  text-decoration: none;
+  font-size: small;
+  margin: 0 1rem;
+}
+.free {
+  background-color: #54ccdf;
+  padding: 0.8rem 2.4rem;
+  color: white;
+  font-weight: 600;
+  font-size: small;
+}
+.ul {
+  margin-right: 7rem;
+}
+.section1 {
+  padding: 10rem 0;
+  background-color: #54ccdf;
+}
+.mass {
+  font-size: 3rem;
+  font-weight: bold;
+  color: white;
+}
+.lorem {
+  color: white;
+}
+.btn-get {
+  background-color: #54ccdf;
+  padding: 0.8rem 2.4rem;
+  color: white;
+  font-weight: 600;
+  font-size: large;
+  margin-top: 2rem;
+}
+.btn-down {
+  background-color: rgb(247, 241, 241);
+  padding: 0.8rem 2.4rem;
+  color: rgb(14, 13, 13);
+  font-weight: 600;
+  font-size: large;
+  margin-top: 2rem;
+}
+/* section1 ending*/
+
+.section2 {
+  padding: 8rem 0;
+  text-align: center;
+}
+.how {
+  font-size: 2rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+.ipsum {
+  font-weight: 400;
+  color: gray;
+  margin-top: 1rem;
+}
+.work_inner {
+  margin-top: 8rem;
+}
+.icon {
+  margin-bottom: 3rem;
+}
+.icon:hover {
+  background-color: #54ccdf;
+}
+.visual {
+  color: black;
+  text-decoration: none;
+}
+.visual:hover {
+  color: #54ccdf;
+  text-decoration: none;
+}
+.here {
+  font-size: 1rem;
+  font-weight: 400;
+  color: rgb(109, 98, 98);
+  margin-top: 2rem;
+}
+
+/* section2 ending*/
+.section3 {
+  background-color: #edf6ff;
+  padding: 8rem 0;
+}
+.sub-section3 {
+  margin-top: 5rem;
+}
+.unique {
+  color: black;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 1rem 3rem;
+  margin-right: 3rem;
+  background-color: rgb(232, 236, 240);
+}
+
+.unique1 {
+  background-color: #54ccdf;
+}
+.life {
+  font-size: 2.25rem;
+  font-weight: 800;
+}
+.section4 {
+  padding: 8rem 0;
+}
+.section5 {
+  background-color: #edf6ff;
+  padding: 8rem 0;
+}
+.sub-section3 {
+  margin-top: 5rem;
+}
+.unique {
+  color: black;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 1rem 3rem;
+  margin-right: 3rem;
+  background-color: rgb(232, 236, 240);
+}
+
+.unique1 {
+  background-color: #54ccdf;
+}
+.life {
+  font-size: 2.25rem;
+  font-weight: 800;
+}
+.section6 {
+  padding: 8rem 0;
+  text-align: center;
+}
+.sub-section6 {
+  margin-top: 5rem;
+}
+.price_item {
+  border: 1px solid #dbd5d5;
+  border-radius: 0.5rem;
+  text-align: center;
+  height: 40rem;
+}
+.price_head {
+  font-size: 1.5rem;
+  font-weight: 700;
+  border: #edf6ff;
+  background-color: #edf6ff;
+  padding: 1.5rem 5rem;
+}
+.price_body .list {
+  list-style-type: none;
+  text-decoration: none;
+  color: rgb(167, 161, 161);
+  margin-top: 2rem;
+  line-height: 2rem;
+}
+.price_footer {
+  border: 1px solid rgb(253, 245, 245);
+  background-color: #edf6ff;
+  padding: 2rem;
+}
+.ullist {
+  text-decoration: none;
+  color: rgb(197, 193, 193);
+}
+.dlr {
+  font-size: 1.5rem;
+  font-weight: 900;
+}
+.number {
+  font-size: 4rem;
+  font-weight: bold;
+}
+.month {
+  font-size: 1.1rem;
+  font-weight: 400;
+  color: rgb(199, 198, 198);
+}
+.price_footer:hover {
+  background-color: #54ccdf;
+}
+.price_head:hover {
+  background-color: #54ccdf;
+}

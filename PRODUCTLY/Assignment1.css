@@ -1,0 +1,151 @@
+.navbar-brand {
+  margin-top: 1rem;
+}
+.nav-link {
+  font-weight: 400;
+  color: #212832;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+}
+.nav-link:focus {
+  color: #f90;
+  text-decoration: none;
+  
+}
+nav {
+  background-color: rgb(237, 243, 245);
+}
+
+.btn-secondary-outline {
+  padding: 0.7rem 1.7rem;
+  border: 1px solid rgb(211, 208, 208);
+  font-weight: 500;
+}
+.ms-3 {
+  padding: 0.7rem 1.7rem;
+  color: white;
+  background-color: #f90;
+  font-weight: 500;
+}
+
+.align-items-center {
+  padding: 0;
+}
+.mb4 {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #544837;
+}
+.section1 {
+  font-weight: 500;
+  margin-left: 4rem;
+  margin-top: 2rem;
+  margin-bottom: 3.5rem;
+  color: #544837;
+}
+.me-3 {
+  margin-left: 4rem;
+  padding: 0.7rem 2.5rem;
+  background-color: #f90;
+  color: white;
+  font-weight: 500;
+}
+.fa-play {
+  width: 1rem;
+  color: #f90;
+}
+.fw-medium {
+  color: #f90;
+}
+.pt-md-0 {
+  width: 35rem;
+  padding-right: 4rem;
+}
+.section2 {
+  padding: 8rem 0;
+}
+.sect {
+  font-weight: 600;
+}
+.sect1 {
+  font-weight: 500;
+  color: #544837;
+}
+.text-center .sign-up {
+  margin-top: 2rem;
+  padding: 0.7rem 2rem;
+  background-color: #f90;
+  color: white;
+  font-weight: 900;
+}
+h4 .effort {
+  font-weight: 900;
+  color: #544837;
+}
+.space {
+  font-weight: 600;
+  color: #544837;
+}
+#pro3 {
+  margin-top: 5rem;
+}
+.easier {
+  font-weight: 500;
+}
+.manager {
+  font-size: 2.6rem;
+}
+.marketer {
+  font-size: 3rem;
+}
+#marketer {
+  margin-top: 5rem;
+}
+.section6 {
+  margin-top: 17rem;
+}
+.ux {
+  font-size: large;
+  color: #747def;
+}
+.btn-md {
+  padding: 0.7rem 1.7rem;
+  color: white;
+  background-color: #f90;
+  font-weight: 500;
+  margin-bottom: 6rem;
+}
+#marketing {
+  margin-top: 3rem;
+}
+.strategy {
+  font-size: 2.5rem;
+}
+
+#card {
+  margin-top: 3rem;
+}
+
+.card {
+  border: none;
+}
+
+.section8 {
+  margin-top: 15rem;
+}
+.footer {
+  font-size: 1.1rem;
+  margin-top: 3rem;
+}
+.order-1 {
+  margin-top: 3rem;
+}
+.sign-up {
+  padding: 0.7rem 1.7rem;
+  color: white;
+  background-color: #f90;
+  font-weight: 500;
+}
+.fa-heart {
+  width: 1rem;
+}
